@@ -1,0 +1,31 @@
+_repo: Vom-Musikalisch-Sch-nenEin-Beitrag-zur-Revision-der--sthetik-der-Tonkunst_26949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hanslick, Eduard
+    alias: Hanslik, Eduard
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '32356'
+    url: http://www.gutenberg.org/2009/agents/32356
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26949'
+  lccn: '62056391'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- Philosophy and aesthetics'
+title: 'Vom Musikalisch-Schönen
+
+  Ein Beitrag zur Revision der Ästhetik der Tonkunst'
+url: http://www.gutenberg.org/ebooks/26949
