@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32356'
     url: http://www.gutenberg.org/2009/agents/32356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26949#Vom-Musikalisch-Sch-nenEin-Beitrag-zur-Revision-der--sthetik-der-Tonkunst
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-10-18'
 gutenberg_type: Text
